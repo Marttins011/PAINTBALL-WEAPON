@@ -6,7 +6,7 @@ Add to qb-core/shared/weapons.lua
 
 ```
 
-	[`weapon_paintball`]					= {['name'] = 'weapon_paintball',				['label'] = 'PaintBall Weapon',						['ammotype'] = nil,
+[`weapon_paintball`]					= {['name'] = 'weapon_paintball',				['label'] = 'PaintBall Weapon',						['ammotype'] = nil,						['damagereason'] = 'Painted'},
   
 ```
 
