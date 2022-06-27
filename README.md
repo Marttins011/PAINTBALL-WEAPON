@@ -56,6 +56,14 @@ Add to qb-ambulancejob/config.lua
 
 ```
 
+Add to qb-smallresources/client/recoil.lua
+
+```
+
+[GetHashKey("weapon_paintball")] = 0.3,
+
+```
+
 Add this image to qb-inventory/html/images
 
 ![image](https://user-images.githubusercontent.com/89866234/176016222-beeefeee-0973-47b2-b7ee-dc15a0ef5273.png)
