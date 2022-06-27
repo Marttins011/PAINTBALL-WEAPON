@@ -1,0 +1,1 @@
+AddTextEntry("WEAPON_PAINTBALL", "PaintBall Weapon")
