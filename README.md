@@ -65,8 +65,7 @@ Add to qb-smallresources/client/recoil.lua
 ```
 
 Add this image to qb-inventory/html/images with name: weapon_paintball.png
-
-![image](https://user-images.githubusercontent.com/89866234/176016222-beeefeee-0973-47b2-b7ee-dc15a0ef5273.png)
+![weapon_paintball](https://user-images.githubusercontent.com/89866234/176182369-577c6279-54fa-4693-a78e-a6b276cc8194.png)
 
 # Weapon Model and skin credits:
 https://pt.gta5-mods.com/weapons/paintball-gun
